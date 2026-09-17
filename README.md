@@ -16,7 +16,7 @@ O arquivo .env é de uso exclusivo da equipe de desenvolvimento do projeto, mas 
 1. Clone o repositório:
 
 ```bash
-   git clone https://github.com/lucas-machi/exercicio-m21-backend
+   git clone https://github.com/lucasmachi/exercicio-m21-backend
 ```
 
 2. Construa e inicie os containers em segundo plano:
